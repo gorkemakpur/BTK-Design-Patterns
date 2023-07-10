@@ -1,0 +1,11 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\bin\Debug\Ninject.xml
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete

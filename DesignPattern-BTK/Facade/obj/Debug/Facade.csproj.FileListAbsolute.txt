@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\bin\Debug\Facade.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\bin\Debug\Facade.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\bin\Debug\Facade.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\obj\Debug\Facade.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Facade\obj\Debug\Facade.pdb

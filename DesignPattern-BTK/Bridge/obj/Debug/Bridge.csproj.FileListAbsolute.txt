@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\bin\Debug\Bridge.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\bin\Debug\Bridge.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\obj\Debug\Bridge.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Bridge\obj\Debug\Bridge.pdb

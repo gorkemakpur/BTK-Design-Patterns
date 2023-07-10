@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\bin\Debug\Singleton.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\bin\Debug\Singleton.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\obj\Debug\Singleton.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Singleton\obj\Debug\Singleton.pdb

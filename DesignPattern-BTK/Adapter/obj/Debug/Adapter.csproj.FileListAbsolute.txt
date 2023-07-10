@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\bin\Debug\Adapter.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\bin\Debug\Adapter.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\obj\Debug\Adapter.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Adapter\obj\Debug\Adapter.pdb

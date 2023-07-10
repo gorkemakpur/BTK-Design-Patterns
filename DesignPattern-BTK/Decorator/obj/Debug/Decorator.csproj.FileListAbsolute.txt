@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\bin\Debug\Decorator.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\bin\Debug\Decorator.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\obj\Debug\Decorator.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Decorator\obj\Debug\Decorator.pdb

@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\TemplateMethod\obj\Debug\TemplateMethod.pdb

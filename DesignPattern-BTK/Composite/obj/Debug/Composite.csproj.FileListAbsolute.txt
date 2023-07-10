@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\bin\Debug\Composite.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\bin\Debug\Composite.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\bin\Debug\Composite.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\obj\Debug\Composite.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Composite\obj\Debug\Composite.pdb

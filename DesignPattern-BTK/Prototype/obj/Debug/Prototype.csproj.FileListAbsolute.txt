@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\bin\Debug\Prototype.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\bin\Debug\Prototype.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\obj\Debug\Prototype.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\Prototype\obj\Debug\Prototype.pdb

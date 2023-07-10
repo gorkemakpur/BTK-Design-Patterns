@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\bin\Debug\State.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\bin\Debug\State.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\bin\Debug\State.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\obj\Debug\State.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\obj\Debug\State.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\obj\Debug\State.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\State\obj\Debug\State.pdb

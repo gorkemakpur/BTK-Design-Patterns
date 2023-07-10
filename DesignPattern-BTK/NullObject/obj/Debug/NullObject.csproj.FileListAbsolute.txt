@@ -1,0 +1,8 @@
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\bin\Debug\NullObject.exe.config
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\bin\Debug\NullObject.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\bin\Debug\NullObject.pdb
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\obj\Debug\NullObject.csproj.AssemblyReference.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\obj\Debug\NullObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\obj\Debug\NullObject.exe
+C:\Users\gorke\Documents\.NET Core\DesignPattern-BTK\NullObject\obj\Debug\NullObject.pdb
